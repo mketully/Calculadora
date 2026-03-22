@@ -1,1 +1,1 @@
-![Calculadora](img/imginter/captura.png)
+![Calculadora](img/captura.png)
