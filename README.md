@@ -1,1 +1,0 @@
-![Calculadora](img/captura.png)
